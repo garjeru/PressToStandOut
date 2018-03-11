@@ -1,0 +1,12 @@
+{
+  "name": "webdiscussionforum",
+  "version": "1.0.0",
+  "description": "A sample JavaScript web app",
+  "author": {
+    "name": "Press To Stand Out Team",
+    "homepage": "http://www.oraclejet.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
